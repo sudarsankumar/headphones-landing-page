@@ -13,4 +13,4 @@ git clone "https://github.com/sudarsankumar/headphones-landing-page.git"
 ```
 
 ## demo link
-[Login Signup](https://headphone-product-landing-page.netlify.app/)
+[Headphones Landing Page](https://headphone-product-landing-page.netlify.app/)
